@@ -7,6 +7,7 @@
 
 <h2>Case Study</h2>
 <h3>1. HNE inhibitors</h3>
+<img src="https://github.com/gkxiao/torchANI2Gaussian/hne_inhibitors.jpg">
 ![Bayer HNE inhibitors](https://github.com/gkxiao/torchANI2Gaussian/hne_inhibitors.jpg)
 <p></p>
 <h3>2. PDE10 inhibitors</h3>
