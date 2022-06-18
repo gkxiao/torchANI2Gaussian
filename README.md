@@ -7,11 +7,11 @@
 
 <h2>Case Study</h2>
 <h3>1. HNE inhibitors</h3>
-<p>Compound 22,27 is reported by Nussbaum,et al.<sup>1</sup>.</p>
+<p>Compound 22 (22_scan.com) and 27 (27_scan.com) is reported by Nussbaum,et al.<sup>1</sup>.</p>
 <img src="https://github.com/gkxiao/torchANI2Gaussian/blob/main/hne_inhibitors.jpg">
 <p></p>
 <h3>2. PDE10 inhibitors</h3>
-<p>Compound 25,26 is reported by Kuhn,et al.<sup>2</sup>.</p>
+<p>Compound 25 (67A-25.com) and 26 (67A-26.com) were reported by Kuhn,et al.<sup>2</sup>.</p>
 <img src="https://github.com/gkxiao/torchANI2Gaussian/blob/main/PDE10_inhibitors.png")
 
 <h2>Reference</h2>
