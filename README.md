@@ -7,8 +7,15 @@
 
 <h2>Case Study</h2>
 <h3>1. HNE inhibitors</h3>
+<p>Compound 22,27 is reported by Nussbaum,et al.<sup>1</sup>.</p>
 <img src="https://github.com/gkxiao/torchANI2Gaussian/blob/main/hne_inhibitors.jpg">
 <p></p>
 <h3>2. PDE10 inhibitors</h3>
+<p>Compound 25,26 is reported by Kuhn,et al.<sup>2</sup>.</p>
 <img src="https://github.com/gkxiao/torchANI2Gaussian/blob/main/PDE10_inhibitors.png")
-<p></p>
+
+<h2>Reference</h2>
+<ol>
+  <li>Vonnussbaum, F.; Li, V. M. J.; Allerheiligen, S.; Anlauf, S.; Bärfacker, L.; Bechem, M.; Delbeck, M.; Fitzgerald, M. F.; Gerisch, M.; Gielen-Haertwig, H.; et al. Freezing the Bioactive Conformation to Boost Potency: The Identification of BAY85-8501, a Selective and Potent Inhibitor of Human Neutrophil Elastase for Pulmonary Diseases. ChemMedChem 2015, 10 (7), 1163–1173. https://doi.org/10.1002/CMDC.201500131.</li>
+  <li>Kuhn B, Guba W, Hert J, et al. A Real-World Perspective on Molecular Design. J Med Chem. 2016;59(9):4087-4102. doi:10.1021/acs.jmedchem.5b01875</li>
+</ol>
