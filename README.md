@@ -1,6 +1,12 @@
-# torchANI2Gaussian
-scripts to interface TorchANI to Gaussian package
+<h2>torchANI2Gaussian</h2>
+<p>scripts to interface TorchANI to Gaussian package</p>
 
-To use these script, the [TorchANI](https://github.com/aiqm/torchani) package needs to be installed first. 
+<p>To use these script, the [TorchANI](https://github.com/aiqm/torchani) package needs to be installed first.</p> 
 
-The scripts here use Python 3. 
+<p>The scripts here use Python 3.</p> 
+
+<h2>Case Study</h2>
+<h3>1. HNE inhibitors</h3>
+<p></p>
+<h3>2. PDE10 inhibitors</h3>
+<p></p>
